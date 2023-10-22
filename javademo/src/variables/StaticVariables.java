@@ -1,5 +1,10 @@
 package variables;
 
+
+/*Static Variables:- Variables which are declared inside the class,outside the
+method with static keyword is called Static Variable.
+ Scope:- across the class or within the class
+*/
 public class StaticVariables {
 
    static String name2 ="buster"; // static variables

@@ -1,4 +1,9 @@
 package variables;
+
+/*Instance Variable:- variables which are declared inside the class
+but outside the methods are called Instance Variable.
+Scope:- across the class but into instance area.
+*/
 public class InstanceVariables {
 
     //global area

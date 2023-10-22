@@ -1,14 +1,15 @@
 package accessmodifiers;
 
 public class ClassCDefault {
-   String name = "bhav";
-   String sur = "pat";
+   String name = "bhav";  //Declared Instance method
+   String sur = "pat"; //Declared Instance method
 
-    public static void main(String[] args) {
-        ClassCDefault c = new ClassCDefault();
+    public static void main(String[] args) {  //Main method
+        ClassCDefault c = new ClassCDefault();  //Create an object
 
-        System.out.println(c.name);
-        System.out.println(c.sur);
+        //Print Statemets
+        System.out.println(c.name);  //calling variable using object
+        System.out.println(c.sur);  //calling variable using object
     }
 
 }
