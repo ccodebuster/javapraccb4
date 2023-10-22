@@ -1,4 +1,8 @@
 package variables;
+
+/*1.Local Variables:-Variables Which Are declared inside the method or inside
+the Contructor or inside the block called local Variable.
+ Local variables - Scope :- Inside the Methods or Inside the Constructor or Inside the blocks.*/
 public class Local {
     //global area
     String name2 ="buster"; // global variables
