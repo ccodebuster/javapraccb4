@@ -1,0 +1,12 @@
+
+x
+java:S1488"[Immediately return this expression instead of assigning it to the temporary variable "nam".(¶þë™8‡„ö¼µ1
+G	java:S106	"+Replace this use of System.out by a logger.(Ãá×ù8œ„ö¼µ1
+G	java:S106
+"+Replace this use of System.out by a logger.(Ýô °8„ö¼µ1
+G	java:S106"+Replace this use of System.out by a logger.(åî©ÿ8„ö¼µ1
+[
+java:S1854">Remove this useless assignment to local variable "sumOfAAndB".(ÄŠ€£8ÔÔ÷¼µ1
+L
+java:S1481"/Remove this unused "sumOfAAndB" local variable.(ÄŠ€£8ÕÔ÷¼µ1
+X	java:S125"<This block of commented-out lines of code should be removed.(Ýóž¢8ÕÔ÷¼µ1

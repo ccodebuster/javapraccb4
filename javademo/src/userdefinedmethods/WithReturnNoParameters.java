@@ -2,7 +2,7 @@ package userdefinedmethods;
 
 public class WithReturnNoParameters {
 
-    static String surName = "patel";
+   public String surName = "patel";
 
     public static void main(String[] args) {
         WithReturnNoParameters m = new WithReturnNoParameters();
