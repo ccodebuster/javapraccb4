@@ -53,3 +53,7 @@ b
 +javademo/src/abstractnonmodifiers/Main.java,5\b\5bc9371bfdaefc8c267f03f3a9eb2dc5b4a6a3f3
 m
 =javademo/src/userdefinedmethods/WithReturnWithParameters.java,8\d\8d0b2030bc756149e084d2984d0ed7e6d50f3219
+r
+Bjavademo/src/instanceandstaticmethods/Instance_Static_Methods.java,8\f\8f3fe587ed36b5fa5803861415ae0d8e2af47d19
+^
+.javademo/src/conditionalstatements/IfElse.java,2\f\2f95617b4c3b3790931f9387b0830e2046965604
