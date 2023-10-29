@@ -1,6 +1,5 @@
 package userdefinedmethods;
 
-import sun.applet.Main;
 
 public class NoReturnNoParameters {
 
