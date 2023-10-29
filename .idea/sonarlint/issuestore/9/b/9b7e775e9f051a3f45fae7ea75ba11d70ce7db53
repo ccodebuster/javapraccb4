@@ -1,12 +1,8 @@
 
-b	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(†“Âé
-Q	java:S125
-"<This block of commented-out lines of code should be removed.(Ó¢Ï˚
-E	java:S106"+Replace this use of System.out by a logger.(Ê®§ö¯ˇˇˇˇ
-@	java:S106"+Replace this use of System.out by a logger.(ù≤¬Æ
-V	java:S125"<This block of commented-out lines of code should be removed.(òƒ∏¬˛ˇˇˇˇ
-E	java:S106"+Replace this use of System.out by a logger.(ç™Åé˚ˇˇˇˇ
-?	java:S106"+Replace this use of System.out by a logger.(ù®û
-@	java:S106"+Replace this use of System.out by a logger.(·ÃÙŸ
-E	java:S106"+Replace this use of System.out by a logger.(òˇé§˚ˇˇˇˇ
-@	java:S106"+Replace this use of System.out by a logger.(◊£õÚ
+G	java:S106"+Replace this use of System.out by a logger.(ù≤¬Æ8ﬂ ”∫µ1
+]	java:S125"<This block of commented-out lines of code should be removed.(òƒ∏¬˛ˇˇˇˇ8ﬂ ”∫µ1
+L	java:S106"+Replace this use of System.out by a logger.(ç™Åé˚ˇˇˇˇ8‡ ”∫µ1
+F	java:S106"+Replace this use of System.out by a logger.(ù®û8‡ ”∫µ1
+G	java:S106"+Replace this use of System.out by a logger.(·ÃÙŸ8‡ ”∫µ1
+L	java:S106"+Replace this use of System.out by a logger.(òˇé§˚ˇˇˇˇ8‡ ”∫µ1
+G	java:S106"+Replace this use of System.out by a logger.(◊£õÚ8‡ ”∫µ1

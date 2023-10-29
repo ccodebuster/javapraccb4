@@ -19,6 +19,5 @@ public class StringMethods {
 
         System.out.println(name.substring(3));
 
-
     }
 }

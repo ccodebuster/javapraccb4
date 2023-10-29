@@ -1,0 +1,9 @@
+
+L	java:S106"+Replace this use of System.out by a logger.(Ò§İáıÿÿÿÿ8ªËØµµ1
+G	java:S106"+Replace this use of System.out by a logger.(ÈØíÄ8«ËØµµ1
+L	java:S106"+Replace this use of System.out by a logger.(Úï¹ƒÿÿÿÿÿ8¬ËØµµ1
+=
+java:S2326" name3 is not used in the method.(‰²ÖÆ8­ËØµµ1
+e	java:S119"IRename this generic name to match the regular expression '^[A-Z][0-9]?$'.(‰²ÖÆ8®ËØµµ1
+L	java:S106"+Replace this use of System.out by a logger.(„•˜ûÿÿÿÿ8±ËØµµ1
+G	java:S106"+Replace this use of System.out by a logger.(ø”ÙÉ8±ËØµµ1

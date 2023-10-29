@@ -1,7 +1,7 @@
 package accessmodifiers;
 
 public class ClassCDefault {
-   String name = "bhav";  //Declared Instance method
+   public String name = "bhav";  //Declared Instance method
    String sur = "pat"; //Declared Instance method
 
     public static void main(String[] args) {  //Main method

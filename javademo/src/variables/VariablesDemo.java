@@ -31,7 +31,7 @@ package variables;
     }
 
     public static void code(){  //Declared static method also user defined method
-        // Test t = new Test();
+        // test.Test t = new test.Test();
         VariablesDemo v1 = new VariablesDemo(); // Declaring object
         System.out.println(v1.city); // access instance variables through object.
         System.out.println(pinCode);// direct

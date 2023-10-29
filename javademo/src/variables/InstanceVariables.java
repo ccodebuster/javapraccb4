@@ -1,5 +1,7 @@
 package variables;
 
+import accessmodifiers.ClassCDefault;
+
 /*Instance Variable:- variables which are declared inside the class
 but outside the methods are called Instance Variable.
 Scope:- across the class but into instance area.
@@ -15,6 +17,11 @@ public class InstanceVariables {
         System.out.println(name);
         InstanceVariables obj = new InstanceVariables();// create object to access instance variables
         System.out.println(obj.name2);
+
+        ClassCDefault c = new ClassCDefault();
+
+
+
 
     }
 

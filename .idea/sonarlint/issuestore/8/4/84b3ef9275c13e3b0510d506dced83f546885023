@@ -1,4 +1,8 @@
 
-o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¶×ï¿
-E	java:S106"+Replace this use of System.out by a logger.(÷ßˆ³ıÿÿÿÿ
-E	java:S106"+Replace this use of System.out by a logger.(š±îûÿÿÿÿ
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¶×ï¿8ÌğŒ»µ1
+L	java:S106"+Replace this use of System.out by a logger.(÷ßˆ³ıÿÿÿÿ8ÕğŒ»µ1
+L	java:S106"+Replace this use of System.out by a logger.(š±îûÿÿÿÿ8ÖğŒ»µ1
+k
+java:S1128"NRemove this unused import 'com.sun.xml.internal.ws.api.model.wsdl.WSDLOutput'.(ÓÒÒÃ8É†¼µ1
+`
+java:S1128"CRemove this unused import 'protectaccessmodifiers.ClassAProtected'.(­‚øì8É†¼µ1
