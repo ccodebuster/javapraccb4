@@ -1,4 +1,4 @@
-import javax.xml.bind.SchemaOutputResolver;
+
 
 public class Main {
 
@@ -27,7 +27,7 @@ public class Main {
         System.out.println(course);
         System.out.println(module);
     }
-    
+
 
 }
 
