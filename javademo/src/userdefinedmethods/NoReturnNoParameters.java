@@ -1,5 +1,6 @@
 package userdefinedmethods;
 
+
 public class NoReturnNoParameters {
 
     static int x = 5;
