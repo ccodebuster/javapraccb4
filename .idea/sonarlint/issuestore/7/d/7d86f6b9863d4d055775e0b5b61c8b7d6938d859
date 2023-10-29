@@ -1,0 +1,34 @@
+
+[
+java:S1854 "9Remove this useless assignment to local variable "name1".(ö«¹´üÿÿÿÿ8·ê¼ß·1
+X
+java:S1854"6Remove this useless assignment to local variable "ch".(©Å°æûÿÿÿÿ8·ê¼ß·1
+W
+java:S1854"5Remove this useless assignment to local variable "n".(ıœ Éşÿÿÿÿ8·ê¼ß·1
+T
+java:S1854"8Remove this useless assignment to local variable "num2".(ÙøH8·ê¼ß·1
+T
+java:S1854"7Remove this useless assignment to local variable "num".(Øºí½8·ê¼ß·1
+]	java:S125"<This block of commented-out lines of code should be removed.(²Š¢åúÿÿÿÿ8¸ê¼ß·1
+E
+java:S1481"(Remove this unused "num" local variable.(Øºí½8¹ê¼ß·1
+E
+java:S1481")Remove this unused "num2" local variable.(ÙøH8ºê¼ß·1
+H
+java:S1481"&Remove this unused "n" local variable.(ıœ Éşÿÿÿÿ8»ê¼ß·1
+I
+java:S1481"'Remove this unused "ch" local variable.(©Å°æûÿÿÿÿ8»ê¼ß·1
+H
+java:S1481"+Remove this unused "result" local variable.(ñûñ8¼ê¼ß·1
+L
+java:S1481 "*Remove this unused "name1" local variable.(ö«¹´üÿÿÿÿ8½ê¼ß·1
+L	java:S106$"+Replace this use of System.out by a logger.(æ¨¤šøÿÿÿÿ8½ê¼ß·1
+G	java:S106%"+Replace this use of System.out by a logger.(Ûşôß8¿ê¼ß·1
+G	java:S106&"+Replace this use of System.out by a logger.(Áß‡Ü8Ìê¼ß·1
+G	java:S106'"+Replace this use of System.out by a logger.(™„“Å8Ìê¼ß·1
+L	java:S106("+Replace this use of System.out by a logger.(à¿öÑúÿÿÿÿ8Íê¼ß·1
+G	java:S106)"+Replace this use of System.out by a logger.(Áß‡Ü8Îê¼ß·1
+L	java:S106*"+Replace this use of System.out by a logger.(æ·ğ÷şÿÿÿÿ8Îê¼ß·1
+L	java:S106+"+Replace this use of System.out by a logger.(›êŞÂúÿÿÿÿ8Ïê¼ß·1
+G	java:S106,"+Replace this use of System.out by a logger.(«‹Îõ8Ğê¼ß·1
+L	java:S106-"+Replace this use of System.out by a logger.(š—°øÿÿÿÿ8Ğê¼ß·1
