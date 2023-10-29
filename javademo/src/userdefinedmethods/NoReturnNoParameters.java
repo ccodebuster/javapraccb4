@@ -1,7 +1,5 @@
 package userdefinedmethods;
 
-import sun.applet.Main;
-
 public class NoReturnNoParameters {
 
     static int x = 5;
