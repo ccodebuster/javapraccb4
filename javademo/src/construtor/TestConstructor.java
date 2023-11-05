@@ -1,6 +1,5 @@
 package construtor;
 
-import test.Test;
 
 public class TestConstructor {
 
