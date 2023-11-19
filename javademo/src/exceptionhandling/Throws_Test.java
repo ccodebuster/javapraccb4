@@ -2,20 +2,27 @@ package exceptionhandling;
 
 public class Throws_Test {
 
-    public void khusbu() throws Exception {
+//    throws is used with the method signature.
+
+    /*
+    We can declare multiple exceptions
+    using throws keyword that can be thrown by the method.
+     */
+
+    public void khusbu() throws Exception { //not handeled and throws exception
         System.out.println(10/0);
     }
 
-    public void sonal() throws Exception{
+    public void sonal() throws Exception{ //not handeled and throws exception
        khusbu();
     }
 
-    public void sumit() throws Exception{
+    public void sumit() throws Exception{ //not handeled and throws exception
       sonal();
         }
 
 
-    public void vaidehi()  {
+    public void vaidehi()  { //accept the exeption and handeled code
         try {
             khusbu();
         } catch (Exception e) {
