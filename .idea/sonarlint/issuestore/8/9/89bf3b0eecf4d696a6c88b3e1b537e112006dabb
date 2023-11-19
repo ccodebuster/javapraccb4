@@ -1,7 +1,11 @@
 
-G	java:S106"+Replace this use of System.out by a logger.(«‹Îõ8ˆ­µµ1
-G	java:S106"+Replace this use of System.out by a logger.(Ï¡ºæ8‹­µµ1
-L	java:S106"+Replace this use of System.out by a logger.(µÏ…èùÿÿÿÿ8­µµ1
-L	java:S106"+Replace this use of System.out by a logger.(„•˜ûÿÿÿÿ8­µµ1
-G	java:S106%"+Replace this use of System.out by a logger.(Éê—8‘­µµ1
-L	java:S106'"+Replace this use of System.out by a logger.( ôÄæúÿÿÿÿ8•­µµ1
+W
+java:S1854"5Remove this useless assignment to local variable "c".(ü¶ñÚúÿÿÿÿ8Å·‹´º1
+G	java:S106"+Replace this use of System.out by a logger.(«‹Îõ8‹­µµ1
+G	java:S106"+Replace this use of System.out by a logger.(Ï¡ºæ8Ç·‹´º1
+H
+java:S1481"&Remove this unused "c" local variable.(ü¶ñÚúÿÿÿÿ8É·‹´º1
+L	java:S106""+Replace this use of System.out by a logger.(µÏ…èùÿÿÿÿ8­µµ1
+L	java:S106#"+Replace this use of System.out by a logger.(„•˜ûÿÿÿÿ8­µµ1
+G	java:S106,"+Replace this use of System.out by a logger.(Éê—8‘­µµ1
+L	java:S106."+Replace this use of System.out by a logger.( ôÄæúÿÿÿÿ8•­µµ1

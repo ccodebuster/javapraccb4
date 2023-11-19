@@ -1,0 +1,11 @@
+
+b
+java:S1192"FDefine a constant instead of duplicating this literal " and " 3 times.(³Ú«;8‡£¹à¹1
+[
+java:S1659	">Declare "b" and all following declarations on a separate line.(ÐÎ¾‡8‘£¹à¹1
+G	java:S106"+Replace this use of System.out by a logger.(ó´û›8’£¹à¹1
+L	java:S106"+Replace this use of System.out by a logger.(æ¨¤šøÿÿÿÿ8’£¹à¹1
+F	java:S106"+Replace this use of System.out by a logger.(³Ú«;8”£¹à¹1
+F	java:S106"+Replace this use of System.out by a logger.(©¯‰p8”£¹à¹1
+F	java:S106"+Replace this use of System.out by a logger.(â„Æ8•£¹à¹1
+G	java:S106"+Replace this use of System.out by a logger.(ÂÍžÃ8•£¹à¹1
