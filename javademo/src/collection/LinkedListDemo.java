@@ -7,7 +7,7 @@ import java.util.LinkedList;
 public class LinkedListDemo<S> {
     public static void main(String[] args) {
 
-        LinkedList<String> names = new LinkedList<>();
+        LinkedList<String> names = new LinkedList<>(); //Declared Linked list
         names.add("bhav");
         names.add("code");
         names.add("buster");

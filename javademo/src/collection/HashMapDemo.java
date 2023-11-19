@@ -2,6 +2,12 @@ package collection;
 
 import java.util.HashMap;
 
+/* Hasmap doesnt maintin order of insertion
+   //It allows only unique value
+
+   //-Example----
+   //Name(Key): bhavesh(Value)
+   //Surnae(Key): patel(value)*/
 public class HashMapDemo {
 
     public static void main(String[] args) {
