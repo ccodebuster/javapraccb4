@@ -1,6 +1,17 @@
 package collection;
 
 import java.util.ArrayList;
+//Note:- // 1. Insertion of value is in preserve order - one of important thing of list.
+// 2. You can store the null value as well
+//3. You can add duplicate value into list.
+
+/*
+ * ArrayList supports dynamic array that can grow as needed
+ * It can contain duplicate element and it also maintains the insertion order
+ * manipulation is slow because a lot of shifting to be occured if any elemet is removed from the array list
+ * Arrylist not synchronised
+ * Arraylist allows random access because it works on the index basis
+ * */
 
 public class ArrayListDemo<S> {
 
