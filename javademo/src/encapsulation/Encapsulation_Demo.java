@@ -15,7 +15,7 @@ package encapsulation;
         at the designing stage of the project.
         Encapsulation is an implementation level process, and it is used to provide privacy and maintain control over the transparency
         of data at the implementation stage of a project.
-
+.
         Note : - Encapsulation is a combination of data hiding and Abstraction. */
 
 
