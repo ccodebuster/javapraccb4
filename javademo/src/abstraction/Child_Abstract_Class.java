@@ -19,8 +19,8 @@ public class Child_Abstract_Class extends Parent_Abstract_Class {
 
 
     public static void main(String[] args) { //Main method
-        Child_Abstract_Class c = new Child_Abstract_Class(); //Create Object of Child class to access parent class methods
-        c.m1();  //called parent class method using child class object
+        Child_Abstract_Class c = new Child_Abstract_Class(); //Create Object of Child class to access Parent class methods
+        c.m1();  //called Parent class method using Child class object
         c.balanceCheck();
         c.printName();
         c.withdrawMoney();

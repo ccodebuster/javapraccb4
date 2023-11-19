@@ -3,11 +3,11 @@ package inheritance.multilevel;
 public class Son extends Father {
 
     public static void main(String[] args) {
-        Son b = new Son();  //Create an object of child class
+        Son b = new Son();  //Create an object of Child class
         addition(); //called static method directly from Parent class Father
-        subtraction(); //called static method directly from child class Son
+        subtraction(); //called static method directly from Child class Son
         b.m1(); //called instance method directly from Parent class Father
-        b.m2(); //called instance method directly from child class Son
+        b.m2(); //called instance method directly from Child class Son
 
     }
 

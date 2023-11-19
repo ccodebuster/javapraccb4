@@ -4,7 +4,7 @@ public class Son extends Father {
     private String name1 = "Java";
 
     public static void main(String[] args) {
-        Son b = new Son();  //Create an object of child class
+        Son b = new Son();  //Create an object of Child class
 
         b.addition();   //called static method directly from Parent class Father
         b.subtraction();  //called static method directly from Child class Son

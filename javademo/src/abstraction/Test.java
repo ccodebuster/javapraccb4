@@ -4,7 +4,7 @@ abstract class Test {
 
     /* abstract class contains normal method and abstract methods. but if class
     declared as abstract you cannot create an object. So, access normal method
-    and absract method create child class and create an object and then called all
+    and absract method create Child class and create an object and then called all
     methods using object name
       */
 
