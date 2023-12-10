@@ -1,0 +1,9 @@
+
+V	java:S125
+"<This block of commented-out lines of code should be removed.(Šêöšüÿÿÿÿ
+@	java:S106"+Replace this use of System.out by a logger.(å¸Š¤
+5
+java:S1659"Declare "b" on a separate line.(Îİ†Û
+@	java:S106"+Replace this use of System.out by a logger.(ÕÈ÷ß
+I
+java:S1128"3Remove this unused import 'inheritance.single.Son'.(£€¿
