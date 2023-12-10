@@ -1,0 +1,43 @@
+
+T
+java:S1854"9Remove this useless assignment to local variable "name1".(¢ÞÈýþÿÿÿÿ
+S
+java:S1854"8Remove this useless assignment to local variable "name".(¿ëÍšøÿÿÿÿ
+P
+java:S1854
+"5Remove this useless assignment to local variable "c".(ãÍ¬Ôýÿÿÿÿ
+P
+java:S1854
+"5Remove this useless assignment to local variable "b".(ãÍ¬Ôýÿÿÿÿ
+P
+java:S1854
+"5Remove this useless assignment to local variable "a".(ãÍ¬Ôýÿÿÿÿ
+Y
+java:S1659
+">Declare "b" and all following declarations on a separate line.(ãÍ¬Ôýÿÿÿÿ
+A
+java:S1481
+"&Remove this unused "a" local variable.(ãÍ¬Ôýÿÿÿÿ
+A
+java:S1481
+"&Remove this unused "b" local variable.(ãÍ¬Ôýÿÿÿÿ
+A
+java:S1481
+"&Remove this unused "c" local variable.(ãÍ¬Ôýÿÿÿÿ
+D
+java:S1481")Remove this unused "name" local variable.(¿ëÍšøÿÿÿÿ
+E
+java:S1481"*Remove this unused "name1" local variable.(¢ÞÈýþÿÿÿÿ
+<
+java:S1481"&Remove this unused "x" local variable.(é¬ØÐ
+@
+java:S1197"*Move the array designators [] to the type.(¡šæã
+<
+java:S1481"&Remove this unused "y" local variable.(¡šæã
+@	java:S106"+Replace this use of System.out by a logger.(Ý”¢Â
+@	java:S106"+Replace this use of System.out by a logger.(Ò¡¬ 
+E	java:S106"+Replace this use of System.out by a logger.(œ‹ÿëøÿÿÿÿ
+E	java:S106"+Replace this use of System.out by a logger.(â‹‰Ïýÿÿÿÿ
+@	java:S106$"+Replace this use of System.out by a logger.(£×ôà
+@	java:S106%"+Replace this use of System.out by a logger.(Ÿ—àÑ
+@	java:S106&"+Replace this use of System.out by a logger.(„Ç›´

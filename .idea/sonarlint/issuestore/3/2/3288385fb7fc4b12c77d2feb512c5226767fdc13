@@ -1,0 +1,29 @@
+
+E	java:S106	"+Replace this use of System.out by a logger.(æ¨¤šøÿÿÿÿ
+E	java:S106
+"+Replace this use of System.out by a logger.(š—°øÿÿÿÿ
+E	java:S106"+Replace this use of System.out by a logger.(š—°øÿÿÿÿ
+E	java:S106"+Replace this use of System.out by a logger.(ïÕÉÖùÿÿÿÿ
+@	java:S106"+Replace this use of System.out by a logger.(«‹Îõ
+E	java:S106"+Replace this use of System.out by a logger.(µÏ…èùÿÿÿÿ
+K
+java:S1854"6Remove this useless assignment to local variable "c5".(ôôµ
+
+K
+java:S1854"6Remove this useless assignment to local variable "c4".(Äµ­-
+Q
+java:S1854"6Remove this useless assignment to local variable "c3".(ª´€¸üÿÿÿÿ
+L
+java:S1854"6Remove this useless assignment to local variable "c1".(»„¼§
+P
+java:S1854"5Remove this useless assignment to local variable "c".(—è´úÿÿÿÿ
+A
+java:S1481"&Remove this unused "c" local variable.(—è´úÿÿÿÿ
+=
+java:S1481"'Remove this unused "c1" local variable.(»„¼§
+B
+java:S1481"'Remove this unused "c3" local variable.(ª´€¸üÿÿÿÿ
+<
+java:S1481"'Remove this unused "c4" local variable.(Äµ­-
+<
+java:S1481"'Remove this unused "c5" local variable.(ôôµ

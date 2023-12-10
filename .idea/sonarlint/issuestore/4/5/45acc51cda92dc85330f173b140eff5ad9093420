@@ -1,6 +1,8 @@
 
 x
 java:S1488"[Immediately return this expression instead of assigning it to the temporary variable "nam".(¶şë™8‡„ö¼µ1
+p
+java:S1104"SMake surName a static final constant or non-public and provide accessors if needed.(ØéÃõ8·‘¾ˆº1
 G	java:S106	"+Replace this use of System.out by a logger.(Ãá×ù8œ„ö¼µ1
 G	java:S106
 "+Replace this use of System.out by a logger.(İô °8„ö¼µ1
