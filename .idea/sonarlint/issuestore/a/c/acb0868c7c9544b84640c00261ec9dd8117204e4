@@ -1,0 +1,10 @@
+
+6
+java:S2326"S is not used in the class.(÷Ïæðûÿÿÿÿ
+?	java:S106"+Replace this use of System.out by a logger.(ë®ÄG
+@	java:S106"+Replace this use of System.out by a logger.(–þ½é
+@	java:S106"+Replace this use of System.out by a logger.(°×ëÃ
+E	java:S106"+Replace this use of System.out by a logger.(æ¨¤šøÿÿÿÿ
+@	java:S106!"+Replace this use of System.out by a logger.(çû«¹
+F
+java:S1128"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ

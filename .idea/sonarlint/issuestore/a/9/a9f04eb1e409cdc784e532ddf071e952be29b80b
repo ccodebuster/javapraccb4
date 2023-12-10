@@ -1,0 +1,24 @@
+
+@	java:S106"+Replace this use of System.out by a logger.(¾î‹‚
+@	java:S106
+"+Replace this use of System.out by a logger.(Çµù’
+@	java:S106"+Replace this use of System.out by a logger.(«‹Îõ
+@	java:S106"+Replace this use of System.out by a logger.(Çµù’
+@	java:S106"+Replace this use of System.out by a logger.(ôÌ¿ò
+@	java:S106"+Replace this use of System.out by a logger.(¡ˆÙõ
+@	java:S106"+Replace this use of System.out by a logger.(«‹Îõ
+@	java:S106"+Replace this use of System.out by a logger.(ôÌ¿ò
+E	java:S106"+Replace this use of System.out by a logger.(èôÓ½üÿÿÿÿ
+@	java:S106"+Replace this use of System.out by a logger.(«‹Îõ
+@	java:S106"+Replace this use of System.out by a logger.(ôÌ¿ò
+@	java:S106"+Replace this use of System.out by a logger.(˜âëª
+Q
+java:S1854$"6Remove this useless assignment to local variable "c6".(º‘Äûÿÿÿÿ
+L
+java:S1854#"6Remove this useless assignment to local variable "c4".(ó­Ô‰
+Q	java:S125 "<This block of commented-out lines of code should be removed.(ÃÈßİ
+=
+java:S1481#"'Remove this unused "c4" local variable.(ó­Ô‰
+B
+java:S1481$"'Remove this unused "c6" local variable.(º‘Äûÿÿÿÿ
+Q	java:S125%"<This block of commented-out lines of code should be removed.(’–İ”

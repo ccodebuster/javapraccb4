@@ -1,0 +1,13 @@
+
+g	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(‡Ë€şÿÿÿÿ
+^
+java:S3518"CMake sure this expression can't be zero before doing this division.(šÇé¬ÿÿÿÿÿ
+^
+java:S3518"CMake sure this expression can't be zero before doing this division.(šÇé¬ÿÿÿÿÿ
+V	java:S125"<This block of commented-out lines of code should be removed.(¡»¢üùÿÿÿÿ
+E	java:S106"+Replace this use of System.out by a logger.(Ñ¦Ğıÿÿÿÿ
+E	java:S106"+Replace this use of System.out by a logger.(šÇé¬ÿÿÿÿÿ
+?	java:S106"+Replace this use of System.out by a logger.(¸á„&
+E	java:S106"+Replace this use of System.out by a logger.(šÇé¬ÿÿÿÿÿ
+E	java:S106!"+Replace this use of System.out by a logger.(·‹©±ÿÿÿÿÿ
+@	java:S106""+Replace this use of System.out by a logger.(¢Àı»

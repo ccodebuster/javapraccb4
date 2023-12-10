@@ -1,9 +1,16 @@
 package gitpractice;
 
 public class Ripti {
+    String name;
+
 
     public static void main(String[] args) {
-        System.out.println("i love my self");
-        System.out.println("created new branch");
+       Ripti ripti = new Ripti("Patel");
+        System.out.println(ripti);
     }
+    Ripti(String name){
+        this.name = name;
+
+    }
+
 }
