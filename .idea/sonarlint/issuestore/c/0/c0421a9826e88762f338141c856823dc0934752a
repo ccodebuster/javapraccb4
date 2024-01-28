@@ -1,0 +1,22 @@
+
+N
+java:S1854"8Remove this useless assignment to local variable "name".(Æÿïû
+K
+java:S1854"5Remove this useless assignment to local variable "c".(¨ÃÂí
+T
+java:S1659">Declare "b" and all following declarations on a separate line.(¨ÃÂí
+<
+java:S1481"&Remove this unused "c" local variable.(¨ÃÂí
+?
+java:S1481")Remove this unused "name" local variable.(Æÿïû
+E	java:S106"+Replace this use of System.out by a logger.(îîŞıÿÿÿÿ
+t
+java:S1171"YMove the contents of this initializer to a standard constructor or to field initializers.(Åñ‹“úÿÿÿÿ
+E	java:S106"+Replace this use of System.out by a logger.(³«Ë½üÿÿÿÿ
+t
+java:S1171"YMove the contents of this initializer to a standard constructor or to field initializers.(Åñ‹“úÿÿÿÿ
+E	java:S106 "+Replace this use of System.out by a logger.(ú“ÿÿÿÿÿ
+E	java:S106$"+Replace this use of System.out by a logger.(…ø®Èşÿÿÿÿ
+E	java:S106("+Replace this use of System.out by a logger.(ĞÓ¯ûÿÿÿÿ
+E	java:S106,"+Replace this use of System.out by a logger.(ÜªøÄÿÿÿÿÿ
+E	java:S1060"+Replace this use of System.out by a logger.(’ûãÈøÿÿÿÿ
