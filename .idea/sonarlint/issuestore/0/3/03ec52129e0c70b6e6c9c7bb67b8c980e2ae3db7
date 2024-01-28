@@ -3,12 +3,16 @@ r
 java:S1104"PMake name a static final constant or non-public and provide accessors if needed.(”¡É°ûÿÿÿÿ8™ñ¯ß·1
 7
 java:S1220""Move this file to a named package.8™ñ¯ß·1
-G	java:S106"+Replace this use of System.out by a logger.(«‹Îõ8·ñ¯ß·1
-G	java:S106"+Replace this use of System.out by a logger.(¦Ã•8¸ñ¯ß·1
+e
+java:S3518"CMake sure this expression can't be zero before doing this division.(šÇé¬ÿÿÿÿÿ8œ–š£Å1
+L	java:S106"+Replace this use of System.out by a logger.(šÇé¬ÿÿÿÿÿ8¹ñ¯ß·1
+G	java:S106"+Replace this use of System.out by a logger.(Ğ‹—Î8³–š£Å1
+G	java:S106"+Replace this use of System.out by a logger.(«‹Îõ8»ñ¯ß·1
+G	java:S106"+Replace this use of System.out by a logger.(¦Ã•8¸ñ¯ß·1
 X
-java:S2696"6Make the enclosing method "static" or remove this set.(‡ëû­ÿÿÿÿÿ8¹ñ¯ß·1
-G	java:S106"+Replace this use of System.out by a logger.(¦Ã•8¹ñ¯ß·1
-G	java:S106"+Replace this use of System.out by a logger.(Ø–Øà8»ñ¯ß·1
-G	java:S106"+Replace this use of System.out by a logger.(¦Ã•8»ñ¯ß·1
-L	java:S106"+Replace this use of System.out by a logger.(Úİû·úÿÿÿÿ8Áñ¯ß·1
-G	java:S106"+Replace this use of System.out by a logger.(–Ä÷8Âñ¯ß·1
+java:S2696"6Make the enclosing method "static" or remove this set.(‡ëû­ÿÿÿÿÿ8¹ñ¯ß·1
+G	java:S106"+Replace this use of System.out by a logger.(¦Ã•8»–š£Å1
+G	java:S106"+Replace this use of System.out by a logger.(Ø–Øà8»ñ¯ß·1
+G	java:S106"+Replace this use of System.out by a logger.(¦Ã•8¿–š£Å1
+L	java:S106#"+Replace this use of System.out by a logger.(Úİû·úÿÿÿÿ8Áñ¯ß·1
+G	java:S106$"+Replace this use of System.out by a logger.(–Ä÷8Âñ¯ß·1
