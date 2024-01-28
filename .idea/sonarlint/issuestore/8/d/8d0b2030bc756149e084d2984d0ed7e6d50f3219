@@ -1,11 +1,11 @@
 
-L	java:S106"+Replace this use of System.out by a logger.(Ï»’çúÿÿÿÿ8 ü—¾µ1
-G	java:S106"+Replace this use of System.out by a logger.(ßè´Ð8¢ü—¾µ1
-G	java:S106"+Replace this use of System.out by a logger.(³ÇÙ8¢ü—¾µ1
-[
-java:S1854">Remove this useless assignment to local variable "sumOfAAndB".(ÄŠ€£8¥ü—¾µ1
-L
-java:S1481"/Remove this unused "sumOfAAndB" local variable.(ÄŠ€£8¥ü—¾µ1
-X	java:S125"<This block of commented-out lines of code should be removed.(Ýóž¢8¥ü—¾µ1
+E	java:S106"+Replace this use of System.out by a logger.(Ï»’çúÿÿÿÿ
+@	java:S106"+Replace this use of System.out by a logger.(ßè´Ð
+@	java:S106"+Replace this use of System.out by a logger.(³ÇÙ
+T
+java:S1854">Remove this useless assignment to local variable "sumOfAAndB".(ÄŠ€£
 E
-java:S1172"(Remove this unused method parameter "x".(­ãê¶8¦ü—¾µ1
+java:S1481"/Remove this unused "sumOfAAndB" local variable.(ÄŠ€£
+Q	java:S125"<This block of commented-out lines of code should be removed.(Ýóž¢
+>
+java:S1172"(Remove this unused method parameter "x".(­ãê¶
