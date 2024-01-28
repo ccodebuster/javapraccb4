@@ -21,5 +21,4 @@ public class ArrayListDemo2<S> {
 
     }
 
-
 }
