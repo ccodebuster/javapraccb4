@@ -57,3 +57,13 @@ r
 Bjavademo/src/instanceandstaticmethods/Instance_Static_Methods.java,8\f\8f3fe587ed36b5fa5803861415ae0d8e2af47d19
 ^
 .javademo/src/conditionalstatements/IfElse.java,2\f\2f95617b4c3b3790931f9387b0830e2046965604
+T
+$javademo/src/gitpractice/Zarana.java,c\c\ccabdba3ec479b30a461bd5ff7fa980ad9db6e2d
+X
+(javademo/src/collection/HashMapDemo.java,9\8\984de4b3b739810cbefa38f56703d6d2be36ebd7
+[
++javademo/src/collection/ArrayListDemo2.java,8\7\87d5ddaf99df943dc32b6b0665838df674618ac8
+[
++javademo/src/collection/LinkedListDemo.java,a\c\acb0868c7c9544b84640c00261ec9dd8117204e4
+X
+(javademo/src/collection/HashSetDemo.java,9\3\93f1ff398085734a1b76958638e26eebd5ce7b40
