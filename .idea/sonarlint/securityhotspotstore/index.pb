@@ -57,3 +57,11 @@ r
 Bjavademo/src/instanceandstaticmethods/Instance_Static_Methods.java,8\f\8f3fe587ed36b5fa5803861415ae0d8e2af47d19
 ^
 .javademo/src/conditionalstatements/IfElse.java,2\f\2f95617b4c3b3790931f9387b0830e2046965604
+S
+#javademo/src/abstraction/Test2.java,4\a\4a524a81a158602368d8d0ab03dc7259b8b9aee2
+X
+(javademo/src/collection/HashMapDemo.java,9\8\984de4b3b739810cbefa38f56703d6d2be36ebd7
+S
+#javademo/src/gitpractice/Akash.java,6\0\608ba8fdd38840c9eaddfe3713d005f7f4cc2038
+T
+$javademo/src/gitpractice/Hitesh.java,e\c\ecaedb3aa40e76ad10b6506d99a6dc6412c1fb49
