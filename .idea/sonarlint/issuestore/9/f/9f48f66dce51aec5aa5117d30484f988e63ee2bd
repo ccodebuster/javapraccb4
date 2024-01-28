@@ -1,0 +1,29 @@
+
+\
+java:S1192
+"FDefine a constant instead of duplicating this literal " and " 5 times.( £ùŸ
+T
+java:S1659">Declare "b" and all following declarations on a separate line.(ñÏþŠ
+@	java:S106
+"+Replace this use of System.out by a logger.( £ùŸ
+E	java:S106"+Replace this use of System.out by a logger.(‚‘«àþÿÿÿÿ
+E	java:S106"+Replace this use of System.out by a logger.(ã›äŽúÿÿÿÿ
+E	java:S106"+Replace this use of System.out by a logger.(Ž‡ÞÏøÿÿÿÿ
+@	java:S106"+Replace this use of System.out by a logger.(ÆÖô—
+E	java:S106"+Replace this use of System.out by a logger.(éî”ñøÿÿÿÿ
+@	java:S106"+Replace this use of System.out by a logger.(ìž¨ì
+E	java:S106"+Replace this use of System.out by a logger.(®ýáëûÿÿÿÿ
+E	java:S106"+Replace this use of System.out by a logger.(›êÞÂúÿÿÿÿ
+E	java:S106"+Replace this use of System.out by a logger.(“â¥¿ÿÿÿÿÿ
+E	java:S106 "+Replace this use of System.out by a logger.(…››ãýÿÿÿÿ
+?
+java:S1940"")Use the opposite operator ("!=") instead.(Ää‰Å
+?
+java:S1940#")Use the opposite operator ("<=") instead.(ÈŒà¿
+E	java:S106%"+Replace this use of System.out by a logger.( ­‡àúÿÿÿÿ
+E	java:S106&"+Replace this use of System.out by a logger.(›¾Ð•üÿÿÿÿ
+@	java:S106'"+Replace this use of System.out by a logger.(Ä„¯Ï
+@	java:S106,"+Replace this use of System.out by a logger.(ô¤„å
+E	java:S106/"+Replace this use of System.out by a logger.(ÒæŸæÿÿÿÿÿ
+@	java:S1062"+Replace this use of System.out by a logger.(ÎØÁÖ
+@	java:S1065"+Replace this use of System.out by a logger.(ÌÕÔñ
