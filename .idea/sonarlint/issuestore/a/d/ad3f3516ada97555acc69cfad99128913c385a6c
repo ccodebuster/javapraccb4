@@ -1,0 +1,7 @@
+
+P
+java:S1854":Remove this useless assignment to local variable "rushit".(ƒυλ¨
+A
+java:S1481"+Remove this unused "rushit" local variable.(ƒυλ¨
+V	java:S125	"<This block of commented-out lines of code should be removed.(Πΐυ¬ώÿÿÿÿ
+@	java:S106"+Replace this use of System.out by a logger.(«‹Ξυ

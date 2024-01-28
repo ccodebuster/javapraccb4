@@ -57,3 +57,21 @@ r
 Bjavademo/src/instanceandstaticmethods/Instance_Static_Methods.java,8\f\8f3fe587ed36b5fa5803861415ae0d8e2af47d19
 ^
 .javademo/src/conditionalstatements/IfElse.java,2\f\2f95617b4c3b3790931f9387b0830e2046965604
+X
+(javademo/src/arrayexample/ArrayDemo.java,7\1\7142cfd08e739a5a99b92c4b67bbe5b06161a432
+Z
+*javademo/src/collection/ArrayListDemo.java,5\7\57a23a78de7fb98d5e0fc41f449d6b4ed7c91482
+X
+(javademo/src/collection/HashSetDemo.java,9\3\93f1ff398085734a1b76958638e26eebd5ce7b40
+X
+(javademo/src/collection/HashMapDemo.java,9\8\984de4b3b739810cbefa38f56703d6d2be36ebd7
+[
++javademo/src/collection/ArrayListDemo2.java,8\7\87d5ddaf99df943dc32b6b0665838df674618ac8
+N
+javademo/src/loop/ForLoop.java,2\b\2b4390a14fe9d679a48a57906f2eb654c45a300a
+P
+ javademo/src/loop/WhileLoop.java,4\c\4cfe62f32a97dfab7867d7b1486f5bc3462622a7
+T
+$javademo/src/gitpractice/Rushit.java,a\d\ad3f3516ada97555acc69cfad99128913c385a6c
+T
+$javademo/src/gitpractice/Hitesh.java,e\c\ecaedb3aa40e76ad10b6506d99a6dc6412c1fb49
